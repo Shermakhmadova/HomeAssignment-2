@@ -2,7 +2,7 @@
 // Created by user on 4/8/2023.
 //
 
-#include "project6.h"
+#include "problem6.h"
 #include <iostream>
 using namespace std;
 /*int main() {

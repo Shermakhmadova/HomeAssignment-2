@@ -12,9 +12,9 @@ add_executable(HomeAssignment_2
         problem2.h
         problem3.cpp
         problem3.h
-        project4.cpp
-        project4.h
-        project5.cpp
-        project5.h
-        project6.cpp
-        project6.h)
+        problem4.cpp
+        problem4.h
+        problem5.cpp
+        problem5.h
+        problem6.cpp
+        problem6.h)
