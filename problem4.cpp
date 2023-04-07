@@ -5,7 +5,7 @@
 #include "problem4.h"
 #include <iostream>
 using namespace std;
-/*int main() {
+int main() {
     int month;
     cout<<"enter the value of month:\n";
     cin>>month;
@@ -47,4 +47,4 @@ using namespace std;
             cout<<"31";
             break;
     }
-}*/
+}

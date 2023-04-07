@@ -5,7 +5,7 @@
 #include "problem6.h"
 #include <iostream>
 using namespace std;
-/*int main() {
+int main() {
     double heldClasses, attended, percent;
     cout<<"Enter the number of classes held:"<<endl;
     cin>>heldClasses;
@@ -18,4 +18,4 @@ using namespace std;
     } else{
         cout<<"Student is allowed to attend the exam";
     }
-}*/
+}

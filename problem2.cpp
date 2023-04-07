@@ -4,7 +4,7 @@
 
 #include <iostream>
 using namespace std;
-/*int main(){
+int main(){
     float a, b, c;
     cin>>a>>b>>c;
     if(a>b&&a>c){
@@ -14,4 +14,4 @@ using namespace std;
     } else{
         cout<<"the maximum number is:"<<c;
     }
-}*/
+}

@@ -5,7 +5,7 @@
 #include "problem5.h"
 #include <iostream>
 using namespace std;
-/*int main() {
+int main() {
     char ch;
     cout<<"enter the character:\n";
     cin>> ch;
@@ -17,4 +17,4 @@ using namespace std;
     } else{
         cout<<"It's a special character";
     }
-}*/
+}

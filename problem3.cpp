@@ -5,7 +5,7 @@
 #include "problem3.h"
 #include <iostream>
 using namespace std;
-/*int main() {
+int main() {
     char o;
     double a, b;
 
@@ -34,4 +34,4 @@ using namespace std;
             break;
     }
     return 0;
-}*/
+}
